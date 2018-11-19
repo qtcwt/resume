@@ -631,7 +631,7 @@
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{0pt}
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
-      {\entrypositionstyle{#1} & \entrylocationstyle{#2} \\}
+      {\entrytitlestyle{#1} & \entrylocationstyle{#2} \\}
   \end{tabular*}%
 }
 
