@@ -11,4 +11,4 @@ resume:
 	mv resume.pdf wentao_resume.pdf
 
 clean:
-	- rm -f *.pdf *.log *.aux *.out
+	rm -f *.pdf *.log *.aux *.out
