@@ -1,6 +1,6 @@
 all:
 	make cv
-	make resume
+#	make resume
 
 cv:
 	lualatex cv.tex
